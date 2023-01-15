@@ -69,13 +69,14 @@ inquirer
       badge = "📝"
     } else if (data.license == "Eclipse"){
       badge = "⭐"
+    } else{
+      badge = ""
     }
 
-    // const filename = data.title + "-README.md";
-    const filename = "README.md";
+    const filename = "Sample-README.md";
   
     fs.writeFile(filename, 
-      '# Project ReadMe - ' + data.title + " " + badge + '\n\n' +
+      '# ReadMe - ' + data.title + " " + badge + '\n\n' +
       '## Description \n\n' +
         data.description + '\n\n' + "---" + '\n\n' +
       '## Table of Contents \n\n' +
