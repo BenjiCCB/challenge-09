@@ -1,12 +1,8 @@
-# ReadMe - Challenge 09 📝
+# ReadMe - My Sample App 📝
 
 ## Description 
 
-This is an app designed to automatically generate READMEs based on a series of prompts.  View more info below, as well as a screenshot and demo video of the app in action.  
-
-This readme was generated using the tool!
-
-![console](./assets/screenshots/console.png)
+This is a sample app designed to showoff my new ReadMe creator
 
 ---
 
@@ -32,7 +28,7 @@ This readme was generated using the tool!
 
 ## Installation Instructions 
 
-After installing node, create a new package file, then use NPM to install the 'inquerer' package. After this, simply run the index.js file from your command line
+After installing node, create a new package file, then use NPM to install the inquerer. After this, simply run the index.js file from your command line
 
 ---
 
@@ -44,13 +40,13 @@ For each of the prompts, provide the relevant information about your app, to be 
 
 ## App License 
 
-This app is covered under the following license: None
+This app is covered under the following license: Apache
 
 ---
 
 ## Contribution Guidelines 
 
-This app was developed indepentently, though all suggestions are welcome
+This app was developed indepentently, though all suggestions welcome
 
 ---
 
