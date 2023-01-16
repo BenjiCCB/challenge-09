@@ -6,6 +6,8 @@ This is an app designed to automatically generate READMEs based on a series of p
 
 This readme was generated using the tool!
 
+Video overview: [link here](https://drive.google.com/file/d/1aafC0zu95bp5mlnKHAIptUKuWFew65wv/view)
+
 ![console](./assets/screenshots/console.png)
 
 ---
